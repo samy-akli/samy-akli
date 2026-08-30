@@ -33,7 +33,7 @@
 ### 📊 GitHub Activity & Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samy-akli&theme=dark&hide_border=true&background=0d1117&stroke=10b981&ring=10b981&fire=10b981&currStreakNum=10b981&sideNums=10b981&sideTitle=c9d1d9" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samy-akli&theme=dark&hide_border=true&count_private=true&background=0d1117&stroke=10b981&ring=10b981&fire=10b981&currStreakNum=10b981&sideNums=10b981&sideTitle=c9d1d9" alt="GitHub Streak" />
   <br /><br />
   <p><sub>Designed with ❤️ for <a href="https://samyakli.dev">Samy Akli</a> • Full Stack & AI Engineer • © 2026</sub></p>
 </div>
