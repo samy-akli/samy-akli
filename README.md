@@ -2,12 +2,12 @@
 
   <!-- Dynamic Typing SVG Header matching Portfolio Aesthetic -->
   <a href="https://samyakli.dev" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=40&pause=1000&color=10B981&center=true&vCenter=true&width=850&height=75&lines=Hi+%F0%9F%90%8B+I'm+Samy+Akli;Full+Stack+%26+AI%2FML+Engineer;QA+Tester+%40+Silent+Witness+AI;Co-Founder+%40+RCL+Fleet+Intelligence;Building+Autonomous+AI+%26+Scalable+Systems" alt="Samy Akli Typing Header" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=40&pause=1000&color=10B981&center=true&vCenter=true&width=850&height=75&lines=Hi+%F0%9F%90%8B+I'm+Samy+Akli;Full+Stack+%26+AI%2FML+Engineer;Co-Founder+%40+RCL+Fleet+Intelligence;Building+Autonomous+AI+%26+Scalable+Systems" alt="Samy Akli Typing Header" />
   </a>
 
   <p align="center">
     <img src="https://img.shields.io/badge/📍_Location-Marrakech%2C_Morocco-10B981?style=for-the-badge&logoColor=white&color=0d1117" />
-    <img src="https://img.shields.io/badge/⚡_Status-QA_Tester_%40_Silent_Witness_AI-10B981?style=for-the-badge&logoColor=white&color=0d1117" />
+    <img src="https://img.shields.io/badge/⚡_Role-Full_Stack_%26_AI_Engineer-10B981?style=for-the-badge&logoColor=white&color=0d1117" />
     <img src="https://img.shields.io/badge/🚀_Venture-Co--Founder_%40_RCL-10B981?style=for-the-badge&logoColor=white&color=0d1117" />
   </p>
 
@@ -37,11 +37,10 @@
  {
    "developer": "Samy Akli",
    "role": "Full Stack & AI/ML Engineer",
-   "fullTimePosition": "QA Tester @ Silent Witness AI",
    "coFounderVenture": "RCL Fleet Intelligence",
    "location": "Marrakech, Morocco 🇲🇦",
    "coreFocus": [
-     "Computer Vision & Crash Telematics Datasets",
+     "Computer Vision & Intelligent Dataset Curation",
      "Autonomous AI Agents & RAG Architectures",
      "Real-Time Vehicle Tracking & OBD-II Telematics",
      "Scalable Full-Stack Engines (Next.js, Python, Laravel)"
@@ -59,16 +58,6 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🕵️ Silent Witness AI</h3>
-      <p align="center"><b>QA Tester & Dataset Curation Lead</b></p>
-      <p>Automated software quality verification, extracting vehicle crash images, crash report PDFs, and accident telematics datasets across databases for AI dataset curation.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-        <img src="https://img.shields.io/badge/QA_Testing-10B981?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
       <h3 align="center">📡 RCL Fleet Intelligence</h3>
       <p align="center"><b>Co-Founder & Lead Engineer</b></p>
       <p>Enterprise GPS Telematics and live 2-way vehicle tracking platform handling real-time OBD-II telemetry, geofencing alerts, and fleet analytics.</p>
@@ -78,8 +67,6 @@
         <img src="https://img.shields.io/badge/GPS_Telematics-10B981?style=flat-square" />
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">🤖 Salma AI & MyMagicBook AI</h3>
       <p align="center"><b>Lead AI Developer & CTO</b></p>
@@ -88,6 +75,18 @@
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
         <img src="https://img.shields.io/badge/OpenAI_RAG-412991?style=flat-square&logo=openai&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">👁️ AI Vision & Dataset Telematics</h3>
+      <p align="center"><b>Computer Vision & Dataset Curation Lead</b></p>
+      <p>Automated software quality verification, vehicle imagery extraction, report analysis, and accident telematics datasets across databases for AI curation.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+        <img src="https://img.shields.io/badge/QA_Testing-10B981?style=flat-square" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -120,14 +119,7 @@
 
 ---
 
-### 📊 GitHub Activity & Analytics
-
-<div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=samy-akli&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=10b981&icon_color=10b981&bg_color=0d1117&text_color=c9d1d9" alt="Samy's GitHub Stats" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samy-akli&layout=compact&theme=dark&hide_border=true&title_color=10b981&icon_color=10b981&bg_color=0d1117&text_color=c9d1d9" alt="Top Languages" />
-</div>
-
-<br />
+### 📊 GitHub Activity & Streak
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=samy-akli&theme=dark&hide_border=true&background=0d1117&stroke=10b981&ring=10b981&fire=10b981&currStreakNum=10b981&sideNums=10b981&sideTitle=c9d1d9" alt="GitHub Streak" />
