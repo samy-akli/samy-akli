@@ -1,0 +1,134 @@
+<div align="center">
+
+  <!-- Header Banner / Title -->
+  <a href="https://samyakli.dev" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=38&pause=1000&color=10B981&center=true&vCenter=true&width=800&height=70&lines=Hi+%F0%9F%90%8B+I'm+Samy+Akli;Full+Stack+%26+AI%2FML+Engineer;QA+Tester+%40+Silent+Witness+AI;Co-Founder+%40+RCL+Fleet+Intelligence;Building+Autonomous+AI+%26+Scalable+Systems" alt="Typing SVG Banner" />
+  </a>
+
+  <p align="center">
+    <b>Full Stack & AI/ML Engineer based in Marrakech, Morocco 🇲🇦</b><br>
+    <i>Architecting intelligent AI models, high-performance web applications, and telemetry data systems.</i>
+  </p>
+
+  <!-- Quick Action Badges -->
+  <p align="center">
+    <a href="https://samyakli.dev" target="_blank">
+      <img src="https://img.shields.io/badge/🌐_Portfolio-samyakli.dev-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="mailto:contact@samyakli.dev">
+      <img src="https://img.shields.io/badge/✉️_Email-contact%40samyakli.dev-007ACC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://www.linkedin.com/in/samy-akli/" target="_blank">
+      <img src="https://img.shields.io/badge/💼_LinkedIn-Samy_Akli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </p>
+
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+```bash
+samy@brain:~$ cat about_samy.json
+{
+  "name": "Samy Akli",
+  "title": "Full Stack & AI/ML Engineer",
+  "location": "Marrakech, Morocco",
+  "currentRole": "QA Tester @ Silent Witness AI",
+  "venture": "Co-Founder @ RCL Fleet Intelligence",
+  "passions": [
+    "Machine Learning & Computer Vision",
+    "Autonomous AI Agents & RAG Architectures",
+    "Scalable Web Engines (Next.js, Python, Laravel)",
+    "Telematics & Vehicle Data Analytics"
+  ],
+  "portfolio": "https://samyakli.dev"
+}
+```
+
+---
+
+### 🚀 Ventures & Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🕵️ Silent Witness AI</h3>
+      <p align="center"><b>QA Tester & Dataset Curation Lead</b></p>
+      <p>Automated software quality verification, extracting vehicle crash images, crash report PDFs, and accident telematics datasets across databases for AI dataset curation.</p>
+      <p><code>Python</code> • <code>Computer Vision</code> • <code>Dataset Curation</code> • <code>QA Automation</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📡 RCL Fleet Intelligence</h3>
+      <p align="center"><b>Co-Founder & Lead Engineer</b></p>
+      <p>Enterprise GPS Telematics and live 2-way vehicle tracking platform handling real-time OBD-II telemetry, geofencing alerts, and fleet analytics.</p>
+      <p><code>Node.js</code> • <code>GPS Telematics</code> • <code>PostgreSQL</code> • <code>WebSockets</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 Salma AI & MyMagicBook AI</h3>
+      <p align="center"><b>Lead AI Developer & CTO</b></p>
+      <p>Interactive AI assistance suite & personalized AI story generator powered by LLMs, Stable Diffusion, and custom RAG retrieval pipelines.</p>
+      <p><code>FastAPI</code> • <code>PyTorch</code> • <code>OpenAI / LangChain</code> • <code>React</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🛒 E-Commerce & Systems</h3>
+      <p align="center"><b>PrestaShop 8 & CLUBS.ma</b></p>
+      <p>High-volume PrestaShop 8 Symfony engine customization and full-stack Laravel 11 sports club management platform with Spatie RBAC & FullCalendar v6.</p>
+      <p><code>PHP 8.2+</code> • <code>Laravel 11</code> • <code>PrestaShop 8</code> • <code>MySQL</code></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Tech Stack & Arsenal
+
+<div align="center">
+
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Artificial Intelligence** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
+| **Frontend Development** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
+| **Backend & Databases** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
+| **Cloud & DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+
+</div>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FLOKI3&show_icons=true&theme=emerald&hide_border=true&count_private=true" alt="Samy's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FLOKI3&layout=compact&theme=emerald&hide_border=true" alt="Top Languages" />
+</div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FLOKI3&theme=emerald&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📬 Connect With Me
+
+<p align="center">
+  <a href="https://samyakli.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Website-samyakli.dev-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="mailto:contact@samyakli.dev">
+    <img src="https://img.shields.io/badge/Email-contact%40samyakli.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/samy-akli/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-samy--akli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/FLOKI3" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-FLOKI3-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Designed with ❤️ for <a href="https://samyakli.dev">Samy Akli</a> • © 2026</sub>
+</p>
